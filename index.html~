@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel='stylesheet' id='stylesheet-weltspielplatz'  href='./css/custom-style.css' type='text/css' media='all' />
+
+<script type='text/javascript' src='./js/modernizr.js'></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+
+<title></title>
+</head>
+<body>
+<div class="container">
+
+	<div class="row zeile1">
+		<div class="col-xs-3 intro">
+			<div class="block rot text">
+				<h2>Von den kreativsten Köpfen unserer Erde erdacht:<br><strong>begeisterte Kinder</strong></h2>
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block orange logo">
+				<img class="img-responsive" src="images/logo.svg" alt="Logo">
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block bild">
+				<img class="img-responsive" src="images/karte01-V.jpg" alt="Skizze Weltspielplatz">
+			</div>
+		</div>
+	</div>
+	
+	<div class="row zeile2">
+		<div class="col-xs-3 intro">
+			<div class="block bild">
+				<img class="img-responsive" src="images/giraffe-V.jpg" alt="Workshop mit Giraffe">
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block gruen text">
+				<h2><strong>Extra groß, Traumlage, phantasievoll, integrativ und gemein­nützig:</strong><br>Wenn Kinder Spielplätze entwerfen.</h2>
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block bild">
+				<img class="img-responsive" src="images/kaese-V.jpg" alt="Käse für Europa">
+			</div>
+		</div>
+	</div>
+	
+	<div class="row zeile3">
+		<div class="col-xs-3 intro">
+			<div class="block bild">
+				<img class="img-responsive" src="images/kinder1-V.jpg" alt="Workshop mit Kindern">
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block bild">
+				<img class="img-responsive" src="images/computer-V.jpg" alt="Am Computer ausarbeiten">
+			</div>
+		</div>
+		<div class="col-xs-3 intro">
+			<div class="block tuerkis text">
+				<h2>Was ist besser als ein kleiner Kinderspielplatz?<br><strong>Ein großer Kinderspielplatz.</strong></h2>
+			</div>
+		</div>
+	</div>
+	
+	<div class="row zeile4">
+		<div class="col-xs-3 intro">
+			<div class="block height-x2 gruen text">
+				<h2>Der Weltspielplatz ist ein ­Projekt des Bezirksamts ­Treptow-Köpenick und des ­MyTheo e.V. Bereits 2009 entwickelte das Grünflächen­amt erste Planungsideen.</h2> 
+<p>Zum Spielplatz­konzept gehörte die Einbeziehung von Kindern verschiedener Herkunft.
+Wir suchten international ausgerichtete Schulen, die sich an der Umsetzung beteiligen wollten. 
+Die BBIS (Berlin Brandenburg International School) haben wir schließlich für dieses Projekt ausgewählt. 
+In drei Workshop Sitzungen entwickelten die jungen Schüler aus 12 Nationen zwischen 11 und 16 Jahren viele Bebauungsvorschläge. 
+Die Ideen der Kinder sind, wie sollte es anders sein, kreativ, witzig und lebensfroh!</p>
+			</div>
+		</div>
+		<div class="col-xs-6 intro">
+			<div class="row videobeschreibung">
+				<div class="col-xs-12 text block violett">
+					<p><strong>Im Interview:</strong> Frau Dr. ­Lehmann vom Straßen- und Grünflächenamt Köpenick, Wolf Ahner vom Planungsbüro AHNER/BREHM, ­Kinder der Sophie-Brahe Schule sowie Initiatorin Frau ­Hahnisch</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
