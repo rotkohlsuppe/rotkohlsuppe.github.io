@@ -752,6 +752,10 @@ div.kontinentkarten .block {
 /* flip the pane when hovered */
 .flip-container:hover .flipper,
 .flip-container.hover .flipper {
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
   transform: rotateY(180deg);
 }
 .flip-container,
@@ -779,10 +783,18 @@ div.kontinentkarten .block {
 .front {
   z-index: 2;
   /* for firefox 31 */
+  -moz-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
   transform: rotateY(0deg);
 }
 /* back, initially hidden pane */
 .back {
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
   transform: rotateY(180deg);
 }
 .col-lg-1,
