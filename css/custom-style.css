@@ -767,6 +767,10 @@ div.kontinentkarten .block {
 }
 /* flip speed goes here */
 .flipper {
+  -webkit-transition: all 0.6s ease;
+  -moz-transition: all 0.6s ease;
+  -ms-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
   transition: 0.6s;
   transform-style: preserve-3d;
   position: relative;
